@@ -1,2 +1,1 @@
-# OPENIX-Smart_Gate_System
-OPENIX is an IoT-based smart gate system developed in C++ for the ESP32 microcontroller. It features wireless RF communication, real-time Firebase integration, and a React Native mobile app for remote control. The project combines embedded programming, cloud connectivity, and mobile development to deliver a secure and efficient access solution.
+📁 Note: This repository is currently private and contains only selected components of the project. Full source code and additional materials may be added later. If you're a recruiter or interested party and would like to learn more, feel free to reach out directly.
